@@ -6,7 +6,8 @@
 | 2. [**Image to Pencil Sketch with Python**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Pencil%20image%20converter/Pencil_Sketch_Converter.ipynb)  |:white_check_mark: |
 | 3. [**Iris Flowers Classification ML Project**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Iris/IrisFlowerClassificationwithKNN.ipynb) | :white_check_mark: |
 <br>
-## Exploratory Data Analysis on Terrorism Dataset
+
+## Exploratory Data Analysis
 
 The task was to conduct Exploratory Data Analysis on a dataset on terrorism, with the goal of identifying the hot zones for terrorism. Using Python and Jupyter Notebook, I was able to determine that the hot zones for terrorism are the Middle East & North Africa and South Asia, with Iran having the highest number of terrorism victims.<br>
 
